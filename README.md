@@ -1,8 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Verduleria Front
 
 ## Available Scripts
+
+Install dependencies
+
+### `npm install`
 
 In the project directory, you can run:
 
